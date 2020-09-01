@@ -1,6 +1,6 @@
 # agendapp
 
-agendapp is an application that you allow add, edit , see and delete your contacts. This project was created with flutter, graphql, nodejs and mongodb.
+agendapp is an application that you allow add, edit , read and delete your contacts. This project was created with flutter, graphql, nodejs and mongodb.
 
 ## Getting Started
 
